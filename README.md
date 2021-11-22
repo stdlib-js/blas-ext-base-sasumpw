@@ -20,7 +20,7 @@ limitations under the License.
 
 # sasumpw
 
-[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] [![dependencies][dependencies-image]][dependencies-url]
+[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
 > Calculate the sum of absolute values ([_L1_ norm][l1norm]) of single-precision floating-point strided array elements using pairwise summation.
 
@@ -204,10 +204,10 @@ console.log( v );
 
 ## See Also
 
--   [`@stdlib/blas/base/sasum`][@stdlib/blas/base/sasum]: compute the sum of absolute values (L1 norm).
--   [`@stdlib/blas/ext/base/dasumpw`][@stdlib/blas/ext/base/dasumpw]: calculate the sum of absolute values (L1 norm) of double-precision floating-point strided array elements using pairwise summation.
--   [`@stdlib/blas/ext/base/gasumpw`][@stdlib/blas/ext/base/gasumpw]: calculate the sum of absolute values (L1 norm) of strided array elements using pairwise summation.
--   [`@stdlib/blas/ext/base/ssumpw`][@stdlib/blas/ext/base/ssumpw]: calculate the sum of single-precision floating-point strided array elements using pairwise summation.
+-   <span class="package-name">[`@stdlib/blas/base/sasum`][@stdlib/blas/base/sasum]</span><span class="delimiter">: </span><span class="description">compute the sum of absolute values (L1 norm).</span>
+-   <span class="package-name">[`@stdlib/blas/ext/base/dasumpw`][@stdlib/blas/ext/base/dasumpw]</span><span class="delimiter">: </span><span class="description">calculate the sum of absolute values (L1 norm) of double-precision floating-point strided array elements using pairwise summation.</span>
+-   <span class="package-name">[`@stdlib/blas/ext/base/gasumpw`][@stdlib/blas/ext/base/gasumpw]</span><span class="delimiter">: </span><span class="description">calculate the sum of absolute values (L1 norm) of strided array elements using pairwise summation.</span>
+-   <span class="package-name">[`@stdlib/blas/ext/base/ssumpw`][@stdlib/blas/ext/base/ssumpw]</span><span class="delimiter">: </span><span class="description">calculate the sum of single-precision floating-point strided array elements using pairwise summation.</span>
 
 </section>
 
@@ -258,8 +258,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/blas-ext-base-sasumpw/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/blas-ext-base-sasumpw?branch=main
 
+<!--
+
 [dependencies-image]: https://img.shields.io/david/stdlib-js/blas-ext-base-sasumpw.svg
 [dependencies-url]: https://david-dm.org/stdlib-js/blas-ext-base-sasumpw/main
+
+-->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
 [chat-url]: https://gitter.im/stdlib-js/stdlib/
