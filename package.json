@@ -1,0 +1,49 @@
+{
+  "name": "@stdlib/blas-ext-base-sasumpw",
+  "version": "0.0.0",
+  "description": "Calculate the sum of absolute values (L1 norm) of single-precision floating-point strided array elements using pairwise summation.",
+  "license": "Apache-2.0",
+  "main": "./bundle.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/blas-ext-base-sasumpw.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "statistics",
+    "stats",
+    "mathematics",
+    "math",
+    "blas",
+    "extended",
+    "abs",
+    "absolute",
+    "l1-norm",
+    "l1norm",
+    "norm",
+    "taxicab",
+    "manhattan",
+    "sum",
+    "total",
+    "summation",
+    "pairwise",
+    "pw",
+    "strided",
+    "strided array",
+    "typed",
+    "array",
+    "float32",
+    "float",
+    "single",
+    "float32array"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
