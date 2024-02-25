@@ -65,7 +65,7 @@ The [_L1_ norm][l1norm] is defined as
 To use in Observable,
 
 ```javascript
-sasumpw = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-sasumpw@umd/browser.js' )
+sasumpw = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-sasumpw@v0.2.1-umd/browser.js' )
 ```
 
 To vendor stdlib functionality and avoid installing dependency trees for Node.js, you can use the UMD server build:
@@ -77,7 +77,7 @@ var sasumpw = require( 'path/to/vendor/umd/blas-ext-base-sasumpw/index.js' )
 To include the bundle in a webpage,
 
 ```html
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-sasumpw@umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-sasumpw@v0.2.1-umd/browser.js"></script>
 ```
 
 If no recognized module system is present, access bundle contents via the global scope:
@@ -199,7 +199,7 @@ var v = sasumpw.ndarray( N, x, 2, 1 );
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@umd/browser.js"></script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@umd/browser.js"></script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/array-float32@umd/browser.js"></script>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-sasumpw@umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-sasumpw@v0.2.1-umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
 
