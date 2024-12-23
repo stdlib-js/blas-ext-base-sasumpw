@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-01)
+## Unreleased (2024-12-23)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
 -   [`08f9c1a`](https://github.com/stdlib-js/stdlib/commit/08f9c1af6dee1cc36cda84b10230500e75d53ff5) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 
 </details>
@@ -51,7 +52,7 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 -   [`d04dcbd`](https://github.com/stdlib-js/stdlib/commit/d04dcbd6dc3b0bf4a89bd3947d317fa5ff15bb38) - **docs:** remove private annotations in C comments _(by Philipp Burckhardt)_
 -   [`ceb4943`](https://github.com/stdlib-js/stdlib/commit/ceb494351d42c2505e559a2c8aad9a120c76d0db) - **docs:** remove comments _(by Athan Reines)_
 -   [`0244027`](https://github.com/stdlib-js/stdlib/commit/0244027e1e2c0ceb1cd8ae1808196c24fa77b142) - **chore:** add missing trailing newlines _(by Philipp Burckhardt)_
--   [`f1c46cd`](https://github.com/stdlib-js/stdlib/commit/f1c46cd7aed96dafc8b6fd7ea2a45927062b9fcd) - **refactor:** update `blas/ext/base/sasumpw` to follow current project conventions _(by Shivam, Philipp Burckhardt)_
+-   [`f1c46cd`](https://github.com/stdlib-js/stdlib/commit/f1c46cd7aed96dafc8b6fd7ea2a45927062b9fcd) - **refactor:** update `blas/ext/base/sasumpw` to follow current project conventions _(by Shivam Ahir, Philipp Burckhardt)_
 
 </details>
 
@@ -67,7 +68,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 -   Athan Reines
 -   Philipp Burckhardt
--   Shivam
+-   Shivam Ahir
 
 </section>
 
