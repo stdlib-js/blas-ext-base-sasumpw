@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-23)
+## Unreleased (2025-01-17)
+
+<section class="features">
+
+### Features
+
+-   [`8582e3f`](https://github.com/stdlib-js/stdlib/commit/8582e3f3ab1f6bb233df00cafe362954fefe24de) - add C `ndarray` API and refactor `blas/ext/base/sasumpw` [(#4764)](https://github.com/stdlib-js/stdlib/pull/4764)
+
+</section>
+
+<!-- /.features -->
 
 <section class="commits">
 
@@ -12,6 +22,7 @@
 
 <details>
 
+-   [`8582e3f`](https://github.com/stdlib-js/stdlib/commit/8582e3f3ab1f6bb233df00cafe362954fefe24de) - **feat:** add C `ndarray` API and refactor `blas/ext/base/sasumpw` [(#4764)](https://github.com/stdlib-js/stdlib/pull/4764) _(by Muhammad Haris, Athan Reines)_
 -   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
 -   [`08f9c1a`](https://github.com/stdlib-js/stdlib/commit/08f9c1af6dee1cc36cda84b10230500e75d53ff5) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 
@@ -25,8 +36,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
+-   Muhammad Haris
 -   Philipp Burckhardt
 
 </section>
