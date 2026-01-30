@@ -63,7 +63,7 @@ The [_L1_ norm][l1norm] is defined as
 ## Usage
 
 ```javascript
-import sasumpw from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-sasumpw@esm/index.mjs';
+import sasumpw from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-sasumpw@v0.3.0-esm/index.mjs';
 ```
 
 #### sasumpw( N, x, strideX )
@@ -166,7 +166,7 @@ var v = sasumpw.ndarray( 4, x, 2, 1 );
 <script type="module">
 
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@esm/index.mjs';
-import sasumpw from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-sasumpw@esm/index.mjs';
+import sasumpw from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-sasumpw@v0.3.0-esm/index.mjs';
 
 var x = discreteUniform( 10, -100, 100, {
     'dtype': 'float32'
