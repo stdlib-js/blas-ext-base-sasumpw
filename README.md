@@ -63,6 +63,11 @@ The [_L1_ norm][l1norm] is defined as
 ## Usage
 
 ```javascript
+import sasumpw from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-sasumpw@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/blas-ext-base-sasumpw/tags). For example,
+
+```javascript
 import sasumpw from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-sasumpw@v0.3.0-esm/index.mjs';
 ```
 
@@ -166,7 +171,7 @@ var v = sasumpw.ndarray( 4, x, 2, 1 );
 <script type="module">
 
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@esm/index.mjs';
-import sasumpw from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-sasumpw@v0.3.0-esm/index.mjs';
+import sasumpw from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-sasumpw@esm/index.mjs';
 
 var x = discreteUniform( 10, -100, 100, {
     'dtype': 'float32'
