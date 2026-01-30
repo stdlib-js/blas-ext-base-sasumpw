@@ -2,9 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.3.0">
 
-## Unreleased (2025-06-26)
+## 0.3.0 (2026-01-30)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`2035f34`](https://github.com/stdlib-js/stdlib/commit/2035f344a1a469278042b7532f034dc6119933b3) - **docs:** add function documentation _(by Athan Reines)_
 -   [`721033e`](https://github.com/stdlib-js/stdlib/commit/721033eede9b3a4667728f40695d933f49f541c1) - **docs:** minor clean-up _(by Philipp Burckhardt)_
 -   [`5fe7c52`](https://github.com/stdlib-js/stdlib/commit/5fe7c52586a8df3f3baa94f5588eadf28d209499) - **refactor:** rename variable in `blas/base/sasumpw` [(#7212)](https://github.com/stdlib-js/stdlib/pull/7212) _(by Shabareesh Shetty)_
 -   [`9f85b5d`](https://github.com/stdlib-js/stdlib/commit/9f85b5d90cb6fcaf052116cd06aa4a693757f0ec) - **test:** fix description _(by Philipp Burckhardt)_
